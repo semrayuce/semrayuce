@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on software development
+- 🌱 I’m currently learning web development (ReactJS)
+- 💬 Ask me about Java, relational database
+- 📫 How to reach me: yucesemra@gmail.com
