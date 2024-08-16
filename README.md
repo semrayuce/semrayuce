@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on software development
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently learning Kotlin&MongoDb
 - 👯 I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me: yucesemra@gmail.com
